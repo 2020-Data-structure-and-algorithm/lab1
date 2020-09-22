@@ -24,7 +24,7 @@
 
 **获取**：通过 `https://github.com/2020-Data-structure-and-algorithm/lab1`，获取。
 
-**提交**：待定
+**提交**：将提交物放到自己lab1的文件夹中，将文件夹压缩，压缩文件名应为你的 `学号_姓名` （如`20210240034_陈雷远`），提交至 `FTP` 站点（`ftp://10.12.5.33`）本课程文件夹的`work_upload/lab1` 文件夹下。
 
 **提交物**：本课程要求使用java或python语言完成，本次lab如果用java语言完成需提交MyLinkedList.java 以及 ThreeSum.java；python语言以此类推
 
